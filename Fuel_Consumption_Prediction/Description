@@ -1,0 +1,1 @@
+This project aimed at building machine learning models that can predict the fuel consumption of the Danish ro-ro passenger ship using a given sensor data collected on board for a period time. Multiple machine learning algorithms are trained evaluated, with a target achieving at least 85% predictive accuracy.
